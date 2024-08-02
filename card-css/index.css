@@ -1,0 +1,41 @@
+.main{
+    width: 40%;
+    height: 95vh;
+    background-color: rgba(254, 60, 60, 0.704);
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    border-radius: 30px;
+}
+
+.card{
+    width: 350px;
+    height: 500px;
+    background-color: rgb(204, 204, 150);
+    margin-top: 100px;
+    border-radius: 30px;
+    overflow: hidden;
+
+}
+h4{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+}
+h5{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+}
+button{
+    margin-left: 20px;
+    background-color: chocolate;
+    padding: 5px 15px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+button:hover{
+    background-color: white;
+}
